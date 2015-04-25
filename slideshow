@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<title>slideshow</title>
+	<head>
+		<link rel="stylesheet" type="text/css" href="mk1.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		 <script src="mk1.js"></script> 
+		<body>
+			<h1>Image_Slideshow:</h1>
+				<div class="images">
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/862/cache/rutting-stags-richmond-england_86237_990x742.jpg" alt="animal" width="900" height="550" >
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/857/cache/brown-pelican-atlantic-musi_85704_990x742.jpg" alt="bird" width="900" height="550">
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/862/cache/hoarfrost-romania-pestera-winter_86228_990x742.jpg" alt="landscape" width="900" height="550">
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/862/cache/social-worker-ants-macro_86239_990x742.jpg" alt="ants" width="900" height="550">
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/862/cache/camels-pushkar-fair-india_86225_990x742.jpg" alt="camels" width="900" height="550">
+				<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/862/cache/water-lily-woman-mekong_86241_990x742.jpg" alt="lady with flowers" width="900" height="550">
+				
+				</div>
+				
+		</body>
+	</head>
+</html>
